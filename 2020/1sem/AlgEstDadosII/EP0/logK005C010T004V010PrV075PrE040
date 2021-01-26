@@ -1,0 +1,196 @@
+---- Simulação de controle de tráfego do aeroporto internacional Pátria Que Progride (PQP) ----
+K 5, C 10, T 4, V 10, PrV 75 PrE 40
+
+Início da Simulação:
+
+@@@@#* Tempo 0 (1ª iteração de 4) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 0 P2: 0 Decolagem: 0
+
+Comunicação de novos vôos com a torre.
+Pista Decolagem sendo utilizada para o vôo:
+Nº Vôo: LK-248 - Decolagem - Destino: PVG Tempo de Vôo Estimado: 7 Espera 0 Emergência: não
+
+Pista P1 sendo utilizada para o vôo:
+Nº Vôo: LK-445 - Decolagem - Destino: PVH Tempo de Vôo Estimado: 11 Espera 0 Emergência: não
+
+Vôos sorteados nesta iteração: 2
+Por tipo de vôo:
+Emergência: 0, Pousos, 2, Decolagens 0
+
+Total de vôos sorteados ao longo da simulação: 2
+Por tipo de vôo:
+Emergência 0, Pousos 2, Decolagens 0
+
+@@@@#* Tempo 1 (2ª iteração de 4) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 2 P2: 0 Decolagem: 2
+
+
+Dados e estatísticas no tempo 1 da simulação:
+
+Nenhum avião esperando para pousar ou decolar neste tempo!
+Média de Combustível dos aviões que pousaram no tempo atual: 0.000000
+Nº de pousos no tempo atual: 0
+Nº de decolagens no tempo atual: 2
+Nº de vôos de emergência usando as Pistas no tempo atual: 0
+Média de Combustível dos voôs que pousaram na simulação até aqui: 0.000000
+Total de Pousos: 0
+Total de Decolagens: 2
+Total de vôos de emergência que usaram a pista: 0
+Total de vôos de emergência que pousaram: 0
+Tempo Médio para: Pouso: 0.000000 , Decolagem: 0.000000
+
+Atualização das Pistas de PQP antes da comunicação dos novos vôos
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 1 P2: 0 Decolagem: 1
+
+Comunicação de novos vôos com a torre.
+Pista P2 sendo utilizada para o vôo:
+Nº Vôo: TR-244 - Pouso - Origem: SDU Combustível: 8 Emergência sim
+
+Vôos sorteados nesta iteração: 5
+Por tipo de vôo:
+Emergência: 2, Pousos, 2, Decolagens 1
+
+Total de vôos sorteados ao longo da simulação: 7
+Por tipo de vôo:
+Emergência 2, Pousos 4, Decolagens 1
+
+Total de vôos redirecionados para FDP: 0
+
+
+Tamanho da fila de espera para PQP (usar as pistas do aeroporto): 4
+
+@@@@#* Tempo 2 (3ª iteração de 4) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 1 P2: 2 Decolagem: 1
+
+
+Dados e estatísticas no tempo 2 da simulação:
+Aviões esperando para pousar:
+Nº Vôo: CU-473 - Pouso - Origem: VIX Combustível: 9 Emergência não
+Média de combustível dos aviões esperando para pousar: 9.000000
+Aviões esperando para decolar:
+Nº Vôo: LK-693 - Decolagem - Destino: LDB Tempo de Vôo Estimado: 2 Espera 0 Emergência: não
+Nº Vôo: VN-368 - Decolagem - Destino: SDU Tempo de Vôo Estimado: 5 Espera 0 Emergência: não
+Média de Combustível dos aviões que pousaram no tempo atual: 8.000000
+Nº de pousos no tempo atual: 0
+Nº de decolagens no tempo atual: 0
+Nº de vôos de emergência usando as Pistas no tempo atual: 1
+Média de Combustível dos voôs que pousaram na simulação até aqui: 8.000000
+Total de Pousos: 0
+Total de Decolagens: 2
+Total de vôos de emergência que usaram a pista: 1
+Total de vôos de emergência que pousaram: 1
+Tempo Médio para: Pouso: 0.000000 , Decolagem: 0.000000
+
+Atualização das Pistas de PQP antes da comunicação dos novos vôos
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 0 P2: 1 Decolagem: 0
+
+Comunicação de novos vôos com a torre.
+
+Total de vôos redirecionados para FDP: 0
+
+Pista Decolagem sendo utilizada para o vôo:
+Nº Vôo: LK-693 - Decolagem - Destino: LDB Tempo de Vôo Estimado: 2 Espera 1 Emergência: não
+
+Pista P1 sendo utilizada para o vôo:
+Nº Vôo: VN-368 - Decolagem - Destino: SDU Tempo de Vôo Estimado: 5 Espera 1 Emergência: não
+
+
+Tamanho da fila de espera para PQP (usar as pistas do aeroporto): 2
+
+@@@@#* Tempo 3 (4ª iteração de 4) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 2 P2: 1 Decolagem: 2
+
+
+Dados e estatísticas no tempo 3 da simulação:
+Aviões esperando para pousar:
+Nº Vôo: CU-473 - Pouso - Origem: VIX Combustível: 8 Emergência não
+Média de combustível dos aviões esperando para pousar: 8.000000
+Aviões esperando para decolar:
+Média de Combustível dos aviões que pousaram no tempo atual: 0.000000
+Nº de pousos no tempo atual: 0
+Nº de decolagens no tempo atual: 2
+Nº de vôos de emergência usando as Pistas no tempo atual: 0
+Média de Combustível dos voôs que pousaram na simulação até aqui: 0.000000
+Total de Pousos: 0
+Total de Decolagens: 4
+Total de vôos de emergência que usaram a pista: 1
+Total de vôos de emergência que pousaram: 1
+Tempo Médio para: Pouso: 0.000000 , Decolagem: 0.000000
+
+Atualização das Pistas de PQP antes da comunicação dos novos vôos
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 1 P2: 0 Decolagem: 1
+
+Comunicação de novos vôos com a torre.
+Vôos sorteados nesta iteração: 1
+Por tipo de vôo:
+Emergência: 0, Pousos, 1, Decolagens 0
+
+Total de vôos sorteados ao longo da simulação: 8
+Por tipo de vôo:
+Emergência 2, Pousos 5, Decolagens 1
+
+Total de vôos redirecionados para FDP: 0
+
+Pista P2 sendo utilizada para o vôo:
+Nº Vôo: CU-473 - Pouso - Origem: VIX Combustível: 7 Emergência não
+
+
+Tamanho da fila de espera para PQP (usar as pistas do aeroporto): 2
+
+@@@#* Estatísticas finais da simulação: *#@@@
+
+
+Dados e estatísticas no tempo 4 da simulação:
+Aviões esperando para pousar:
+Média de combustível dos aviões esperando para pousar: 0.000000
+Aviões esperando para decolar:
+Nº Vôo: QV-812 - Decolagem - Destino: PEK Tempo de Vôo Estimado: 11 Espera 0 Emergência: não
+Média de Combustível dos aviões que pousaram no tempo atual: 7.000000
+Nº de pousos no tempo atual: 1
+Nº de decolagens no tempo atual: 0
+Nº de vôos de emergência usando as Pistas no tempo atual: 0
+Média de Combustível dos voôs que pousaram na simulação até aqui: 3.500000
+Total de Pousos: 1
+Total de Decolagens: 4
+Total de vôos de emergência que usaram a pista: 1
+Total de vôos de emergência que pousaram: 1
+Tempo Médio para: Pouso: 4.000000 , Decolagem: 0.000000
+Fração de vôos de emergência que usaram as pistas: 12.500000%
+Fração de vôos que pousaram: 12.500000%
+Fração de vôos que decolaram: 50.000000%
+
+Fração de vôos de emergência sorteados: 25.000000%
+Fração de pousos sorteados: 12.500000%
+Fração de decolagens sorteadas: 62.500000%
+Fração de vôos ainda na fila que não pousaram: 25.000000%
+Fração de vôos desviados: 0.000000%
+Fração de vôos que cairam: 0.000000%
+Situação das Pistas de PQP após a simulação:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 1 P2: 2 Decolagem: 1
+
+
+@@@@#* Fim da Simulação! *#@@@@

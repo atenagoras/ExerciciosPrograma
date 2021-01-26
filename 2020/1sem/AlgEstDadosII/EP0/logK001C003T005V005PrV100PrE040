@@ -1,0 +1,123 @@
+---- Simulação de controle de tráfego do aeroporto internacional Pátria Que Progride (PQP) ----
+K 1, C 3, T 5, V 5, PrV 100 PrE 40
+
+Início da Simulação:
+
+@@@@#* Tempo 0 (1ª iteração de 5) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 0 P2: 0 Decolagem: 0
+
+Comunicação de novos vôos com a torre.
+
+@@@@#* Tempo 1 (2ª iteração de 5) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 0 P2: 0 Decolagem: 0
+
+Comunicação de novos vôos com a torre.
+
+@@@@#* Tempo 2 (3ª iteração de 5) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 0 P2: 0 Decolagem: 0
+
+Comunicação de novos vôos com a torre.
+
+@@@@#* Tempo 3 (4ª iteração de 5) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 0 P2: 0 Decolagem: 0
+
+Comunicação de novos vôos com a torre.
+Pista Decolagem sendo utilizada para o vôo:
+Nº Vôo: LK-445 - Decolagem - Destino: PVH Tempo de Vôo Estimado: 2 Espera 0 Emergência: não
+
+Vôos sorteados nesta iteração: 1
+Por tipo de vôo:
+Emergência: 0, Pousos, 1, Decolagens 0
+
+Total de vôos sorteados ao longo da simulação: 1
+Por tipo de vôo:
+Emergência 0, Pousos 1, Decolagens 0
+
+@@@@#* Tempo 4 (5ª iteração de 5) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 0 P2: 0 Decolagem: 2
+
+
+Dados e estatísticas no tempo 4 da simulação:
+
+Nenhum avião esperando para pousar ou decolar neste tempo!
+Média de Combustível dos aviões que pousaram no tempo atual: 0.000000
+Nº de pousos no tempo atual: 0
+Nº de decolagens no tempo atual: 1
+Nº de vôos de emergência usando as Pistas no tempo atual: 0
+Média de Combustível dos voôs que pousaram na simulação até aqui: 0.000000
+Total de Pousos: 0
+Total de Decolagens: 1
+Total de vôos de emergência que usaram a pista: 0
+Total de vôos de emergência que pousaram: 0
+Tempo Médio para: Pouso: 0.000000 , Decolagem: 0.000000
+
+Atualização das Pistas de PQP antes da comunicação dos novos vôos
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 0 P2: 0 Decolagem: 1
+
+Comunicação de novos vôos com a torre.
+Pista P1 sendo utilizada para o vôo:
+Nº Vôo: TR-244 - Pouso - Origem: SDU Combustível: 2 Emergência sim
+
+Vôos sorteados nesta iteração: 1
+Por tipo de vôo:
+Emergência: 1, Pousos, 0, Decolagens 0
+
+Total de vôos sorteados ao longo da simulação: 2
+Por tipo de vôo:
+Emergência 1, Pousos 1, Decolagens 0
+
+@@@#* Estatísticas finais da simulação: *#@@@
+
+
+Dados e estatísticas no tempo 5 da simulação:
+
+Nenhum avião esperando para pousar ou decolar neste tempo!
+Média de Combustível dos aviões que pousaram no tempo atual: 2.000000
+Nº de pousos no tempo atual: 0
+Nº de decolagens no tempo atual: 0
+Nº de vôos de emergência usando as Pistas no tempo atual: 1
+Média de Combustível dos voôs que pousaram na simulação até aqui: 2.000000
+Total de Pousos: 0
+Total de Decolagens: 1
+Total de vôos de emergência que usaram a pista: 1
+Total de vôos de emergência que pousaram: 1
+Tempo Médio para: Pouso: 0.000000 , Decolagem: 0.000000
+Fração de vôos de emergência que usaram as pistas: 50.000000%
+Fração de vôos que pousaram: 0.000000%
+Fração de vôos que decolaram: 50.000000%
+
+Fração de vôos de emergência sorteados: 50.000000%
+Fração de pousos sorteados: 0.000000%
+Fração de decolagens sorteadas: 50.000000%
+Fração de vôos ainda na fila que não pousaram: 0.000000%
+Fração de vôos desviados: 0.000000%
+Fração de vôos que cairam: 0.000000%
+Situação das Pistas de PQP após a simulação:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 2 P2: 0 Decolagem: 1
+
+
+@@@@#* Fim da Simulação! *#@@@@

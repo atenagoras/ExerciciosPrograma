@@ -1,0 +1,5 @@
+### Para Compilar ###
+$ gcc -g knn knn.c
+
+### Para rodar ###
+$ ./knn train.csv test.csv K # Onde o K é um número natural

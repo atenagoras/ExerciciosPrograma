@@ -1,0 +1,47 @@
+---- Simulação de controle de tráfego do aeroporto internacional Pátria Que Progride (PQP) ----
+K 3, C 3, T 1, V 5, PrV 95 PrE 40
+
+Início da Simulação:
+
+@@@@#* Tempo 0 (1ª iteração de 1) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 0 P2: 0 Decolagem: 0
+
+Comunicação de novos vôos com a torre.
+
+@@@#* Estatísticas finais da simulação: *#@@@
+
+
+Dados e estatísticas no tempo 1 da simulação:
+
+Nenhum avião esperando para pousar ou decolar neste tempo!
+Média de Combustível dos aviões que pousaram no tempo atual: 0.000000
+Nº de pousos no tempo atual: 0
+Nº de decolagens no tempo atual: 0
+Nº de vôos de emergência usando as Pistas no tempo atual: 0
+Média de Combustível dos voôs que pousaram na simulação até aqui: 0.000000
+Total de Pousos: 0
+Total de Decolagens: 0
+Total de vôos de emergência que usaram a pista: 0
+Total de vôos de emergência que pousaram: 0
+Tempo Médio para: Pouso: 0.000000 , Decolagem: 0.000000
+Fração de vôos de emergência que usaram as pistas: -nan%
+Fração de vôos que pousaram: -nan%
+Fração de vôos que decolaram: -nan%
+
+Fração de vôos de emergência sorteados: -nan%
+Fração de pousos sorteados: -nan%
+Fração de decolagens sorteadas: -nan%
+Fração de vôos ainda na fila que não pousaram: -nan%
+Fração de vôos desviados: -nan%
+Fração de vôos que cairam: -nan%
+Situação das Pistas de PQP após a simulação:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 0 P2: 0 Decolagem: 0
+
+
+@@@@#* Fim da Simulação! *#@@@@

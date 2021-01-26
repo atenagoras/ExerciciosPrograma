@@ -1,0 +1,11 @@
+Este Exercício programa é um sistema de recomendação. 
+
+Com base na nota dada a filmes por um usuário, utiliza notas dadas por outros usuários para recomendar um filme ainda não visto.
+Eu não lembro onde está o arquivo da especificação do trabalho.
+Os casos de entrada são os arquivos *.in
+
+### Para Compilar ###
+$ gcc -o recomenda recomenda.c
+
+### Para executar um teste ###
+$ ./recomenda < 1.in # Exemplo

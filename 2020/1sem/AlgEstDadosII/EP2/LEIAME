@@ -1,0 +1,10 @@
+- Para compilar:
+$ make
+- O executável principal chama-se grafosT.
+- Para rodar o programa com um texto, deve-se chamar o programa com um arquivo de texto, como no exemplo:
+$ ./grafosT arquivoTexto
+
+- O run.sh roda o programa com os quatro textos utilizados, gerando arquivos com final "-GrafoAnalise"
+
+- O relatório foi construido com uma pequena edição e conversão de arquivo .csv para tabelas Latex.
+Ele pode ser lido abrindo o arquivo relatorio.pdf

@@ -1,0 +1,8 @@
+### Compilação do programa ###
+$ gcc -o Balrec Balrec.c
+
+### Execução do Programa ###
+Descompacte os casos e chame a entrada do arquivo via pipe.
+Exemplo:
+$ unzip Casos.zip # Descompacta os casos de entrada
+$ ./BalRec < 1.in # Executa BalRec com os parâmetros de entrada em 1.in

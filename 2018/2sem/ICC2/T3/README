@@ -1,0 +1,8 @@
+### Para compilar ###
+$ gcc -o spellcheck spellcheck.c
+
+### para rodar
+1 - Descompactar os livros, que vieram do projeto Gutemberg
+2 - Descompactar os Twwets
+3 - Descompacte os casos de teste
+$ ./spellcheck < n.in # onde n pode ser qualquer número do arquivo de entrada

@@ -1,0 +1,14 @@
+Para compilar:
+$ make
+
+Para rodar todos as estruturas em todos os livros:
+$ ./run.sh
+
+Relatório disponível no arquivo
+relatorio.pdf
+
+Para gerar o relatório:
+$ make clean
+$ pdflatex --shell-escape relatorio.tex
+
+Os arquivos de livros utilizados foram retirados do projeto Gutenberg (http://www.gutenberg.net)

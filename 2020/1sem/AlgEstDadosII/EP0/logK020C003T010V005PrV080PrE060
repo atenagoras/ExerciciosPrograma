@@ -1,0 +1,650 @@
+---- Simulação de controle de tráfego do aeroporto internacional Pátria Que Progride (PQP) ----
+K 20, C 3, T 10, V 5, PrV 80 PrE 60
+
+Início da Simulação:
+
+@@@@#* Tempo 0 (1ª iteração de 10) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 0 P2: 0 Decolagem: 0
+
+Comunicação de novos vôos com a torre.
+Pista Decolagem sendo utilizada para o vôo:
+Nº Vôo: LK-248 - Decolagem - Destino: PVG Tempo de Vôo Estimado: 3 Espera 0 Emergência: sim
+
+Pista P1 sendo utilizada para o vôo:
+Nº Vôo: LK-445 - Decolagem - Destino: PVH Tempo de Vôo Estimado: 2 Espera 0 Emergência: não
+
+Pista P2 sendo utilizada para o vôo:
+Nº Vôo: AD-191 - Decolagem - Destino: POA Tempo de Vôo Estimado: 6 Espera 0 Emergência: sim
+
+Vôos sorteados nesta iteração: 14
+Por tipo de vôo:
+Emergência: 6, Pousos, 5, Decolagens 3
+
+Total de vôos sorteados ao longo da simulação: 14
+Por tipo de vôo:
+Emergência 6, Pousos 5, Decolagens 3
+
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: QV-602 - Pouso - Origem: GIG Combustível: 1 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: AV-325 - Pouso - Origem: RBR Combustível: 1 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: CA-822 - Pouso - Origem: GIG Combustível: 1 Emergência não
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: JS-394 - Pouso - Origem: BPS Combustível: 1 Emergência não
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: ZP-043 - Pouso - Origem: MAO Combustível: 3 Emergência não
+Total de vôos redirecionados para FDP: 5
+
+
+Tamanho da fila de espera para PQP (usar as pistas do aeroporto): 6
+
+@@@@#* Tempo 1 (2ª iteração de 10) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 2 P2: 2 Decolagem: 2
+
+
+Dados e estatísticas no tempo 1 da simulação:
+Aviões esperando para pousar:
+Média de combustível dos aviões esperando para pousar: 0.000000
+Aviões esperando para decolar:
+Nº Vôo: LK-895 - Decolagem - Destino: IGU Tempo de Vôo Estimado: 1 Espera 0 Emergência: não
+Nº Vôo: RG-325 - Decolagem - Destino: BSB Tempo de Vôo Estimado: 2 Espera 0 Emergência: não
+Nº Vôo: QV-812 - Decolagem - Destino: PEK Tempo de Vôo Estimado: 3 Espera 0 Emergência: não
+Nº Vôo: QV-538 - Decolagem - Destino: PVG Tempo de Vôo Estimado: 3 Espera 0 Emergência: não
+Média de Combustível dos aviões que pousaram no tempo atual: 0.000000
+Nº de pousos no tempo atual: 0
+Nº de decolagens no tempo atual: 1
+Nº de vôos de emergência usando as Pistas no tempo atual: 2
+Média de Combustível dos voôs que pousaram na simulação até aqui: 0.000000
+Total de Pousos: 0
+Total de Decolagens: 1
+Total de vôos de emergência que usaram a pista: 2
+Total de vôos de emergência que pousaram: 0
+Tempo Médio para: Pouso: 0.000000 , Decolagem: 0.000000
+
+Atualização das Pistas de PQP antes da comunicação dos novos vôos
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 1 P2: 1 Decolagem: 1
+
+Comunicação de novos vôos com a torre.
+Vôos sorteados nesta iteração: 16
+Por tipo de vôo:
+Emergência: 12, Pousos, 2, Decolagens 2
+
+Total de vôos sorteados ao longo da simulação: 30
+Por tipo de vôo:
+Emergência 18, Pousos 7, Decolagens 5
+
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: RG-727 - Pouso - Origem: PMW Combustível: 4 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: VN-654 - Pouso - Origem: VIX Combustível: 3 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: JS-233 - Pouso - Origem: IGU Combustível: 1 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: AV-979 - Pouso - Origem: SSA Combustível: 1 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: TR-328 - Pouso - Origem: HAN Combustível: 2 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: VP-834 - Pouso - Origem: NAT Combustível: 4 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: ZP-316 - Pouso - Origem: MCP Combustível: 2 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: JS-109 - Pouso - Origem: POA Combustível: 2 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: CU-015 - Pouso - Origem: PVH Combustível: 3 Emergência não
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: LK-778 - Pouso - Origem: LDB Combustível: 4 Emergência não
+Total de vôos redirecionados para FDP: 10
+
+
+Tamanho da fila de espera para PQP (usar as pistas do aeroporto): 12
+
+@@@@#* Tempo 2 (3ª iteração de 10) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 1 P2: 1 Decolagem: 1
+
+
+Dados e estatísticas no tempo 2 da simulação:
+Aviões esperando para pousar:
+Média de combustível dos aviões esperando para pousar: 0.000000
+Aviões esperando para decolar:
+Nº Vôo: LK-895 - Decolagem - Destino: IGU Tempo de Vôo Estimado: 1 Espera 1 Emergência: não
+Nº Vôo: RG-325 - Decolagem - Destino: BSB Tempo de Vôo Estimado: 2 Espera 1 Emergência: não
+Nº Vôo: QV-812 - Decolagem - Destino: PEK Tempo de Vôo Estimado: 3 Espera 1 Emergência: não
+Nº Vôo: QV-538 - Decolagem - Destino: PVG Tempo de Vôo Estimado: 3 Espera 1 Emergência: não
+Nº Vôo: AV-141 - Decolagem - Destino: GRU Tempo de Vôo Estimado: 3 Espera 0 Emergência: não
+Nº Vôo: JS-948 - Decolagem - Destino: NVT Tempo de Vôo Estimado: 3 Espera 0 Emergência: não
+Média de Combustível dos aviões que pousaram no tempo atual: 0.000000
+Nº de pousos no tempo atual: 0
+Nº de decolagens no tempo atual: 0
+Nº de vôos de emergência usando as Pistas no tempo atual: 0
+Média de Combustível dos voôs que pousaram na simulação até aqui: 0.000000
+Total de Pousos: 0
+Total de Decolagens: 1
+Total de vôos de emergência que usaram a pista: 2
+Total de vôos de emergência que pousaram: 0
+Tempo Médio para: Pouso: 0.000000 , Decolagem: 0.000000
+
+Atualização das Pistas de PQP antes da comunicação dos novos vôos
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 0 P2: 0 Decolagem: 0
+
+Comunicação de novos vôos com a torre.
+Pista Decolagem sendo utilizada para o vôo:
+Nº Vôo: JS-447 - Decolagem - Destino: IGU Tempo de Vôo Estimado: 4 Espera 0 Emergência: não
+
+Pista P1 sendo utilizada para o vôo:
+Nº Vôo: AD-277 - Pouso - Origem: PMW Combustível: 4 Emergência não
+
+Vôos sorteados nesta iteração: 5
+Por tipo de vôo:
+Emergência: 3, Pousos, 1, Decolagens 1
+
+Total de vôos sorteados ao longo da simulação: 35
+Por tipo de vôo:
+Emergência 21, Pousos 8, Decolagens 6
+
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: AD-762 - Pouso - Origem: CGR Combustível: 3 Emergência sim
+Total de vôos redirecionados para FDP: 1
+
+Pista P2 sendo utilizada para o vôo:
+Nº Vôo: LK-895 - Decolagem - Destino: IGU Tempo de Vôo Estimado: 1 Espera 2 Emergência: não
+
+
+Tamanho da fila de espera para PQP (usar as pistas do aeroporto): 13
+
+@@@@#* Tempo 3 (4ª iteração de 10) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 2 P2: 2 Decolagem: 2
+
+
+Dados e estatísticas no tempo 3 da simulação:
+Aviões esperando para pousar:
+Média de combustível dos aviões esperando para pousar: 0.000000
+Aviões esperando para decolar:
+Nº Vôo: RG-325 - Decolagem - Destino: BSB Tempo de Vôo Estimado: 2 Espera 2 Emergência: não
+Nº Vôo: QV-812 - Decolagem - Destino: PEK Tempo de Vôo Estimado: 3 Espera 2 Emergência: não
+Nº Vôo: QV-538 - Decolagem - Destino: PVG Tempo de Vôo Estimado: 3 Espera 2 Emergência: não
+Nº Vôo: AV-141 - Decolagem - Destino: GRU Tempo de Vôo Estimado: 3 Espera 1 Emergência: não
+Nº Vôo: JS-948 - Decolagem - Destino: NVT Tempo de Vôo Estimado: 3 Espera 1 Emergência: não
+Média de Combustível dos aviões que pousaram no tempo atual: 4.000000
+Nº de pousos no tempo atual: 1
+Nº de decolagens no tempo atual: 2
+Nº de vôos de emergência usando as Pistas no tempo atual: 0
+Média de Combustível dos voôs que pousaram na simulação até aqui: 4.000000
+Total de Pousos: 1
+Total de Decolagens: 3
+Total de vôos de emergência que usaram a pista: 2
+Total de vôos de emergência que pousaram: 0
+Tempo Médio para: Pouso: 3.000000 , Decolagem: 0.000000
+
+Atualização das Pistas de PQP antes da comunicação dos novos vôos
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 1 P2: 1 Decolagem: 1
+
+Comunicação de novos vôos com a torre.
+Vôos sorteados nesta iteração: 2
+Por tipo de vôo:
+Emergência: 1, Pousos, 0, Decolagens 1
+
+Total de vôos sorteados ao longo da simulação: 37
+Por tipo de vôo:
+Emergência 22, Pousos 8, Decolagens 7
+
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: LA-382 - Pouso - Origem: HKG Combustível: 1 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: AD-320 - Pouso - Origem: GRU Combustível: 4 Emergência não
+Total de vôos redirecionados para FDP: 2
+
+
+Tamanho da fila de espera para PQP (usar as pistas do aeroporto): 13
+
+@@@@#* Tempo 4 (5ª iteração de 10) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 1 P2: 1 Decolagem: 1
+
+
+Dados e estatísticas no tempo 4 da simulação:
+Aviões esperando para pousar:
+Média de combustível dos aviões esperando para pousar: 0.000000
+Aviões esperando para decolar:
+Nº Vôo: RG-325 - Decolagem - Destino: BSB Tempo de Vôo Estimado: 2 Espera 3 Emergência: não
+Nº Vôo: QV-812 - Decolagem - Destino: PEK Tempo de Vôo Estimado: 3 Espera 3 Emergência: não
+Nº Vôo: QV-538 - Decolagem - Destino: PVG Tempo de Vôo Estimado: 3 Espera 3 Emergência: não
+Nº Vôo: AV-141 - Decolagem - Destino: GRU Tempo de Vôo Estimado: 3 Espera 2 Emergência: não
+Nº Vôo: JS-948 - Decolagem - Destino: NVT Tempo de Vôo Estimado: 3 Espera 2 Emergência: não
+Média de Combustível dos aviões que pousaram no tempo atual: 0.000000
+Nº de pousos no tempo atual: 0
+Nº de decolagens no tempo atual: 0
+Nº de vôos de emergência usando as Pistas no tempo atual: 0
+Média de Combustível dos voôs que pousaram na simulação até aqui: 0.000000
+Total de Pousos: 1
+Total de Decolagens: 3
+Total de vôos de emergência que usaram a pista: 2
+Total de vôos de emergência que pousaram: 0
+Tempo Médio para: Pouso: 4.000000 , Decolagem: 0.000000
+
+Atualização das Pistas de PQP antes da comunicação dos novos vôos
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 0 P2: 0 Decolagem: 0
+
+Comunicação de novos vôos com a torre.
+Pista Decolagem sendo utilizada para o vôo:
+Nº Vôo: VP-127 - Decolagem - Destino: VTE Tempo de Vôo Estimado: 5 Espera 0 Emergência: não
+
+Vôos sorteados nesta iteração: 4
+Por tipo de vôo:
+Emergência: 3, Pousos, 1, Decolagens 0
+
+Total de vôos sorteados ao longo da simulação: 41
+Por tipo de vôo:
+Emergência 25, Pousos 9, Decolagens 7
+
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: AV-184 - Pouso - Origem: SLZ Combustível: 3 Emergência sim
+Total de vôos redirecionados para FDP: 1
+
+Pista P1 sendo utilizada para o vôo:
+Nº Vôo: RG-325 - Decolagem - Destino: BSB Tempo de Vôo Estimado: 2 Espera 4 Emergência: não
+
+Pista P2 sendo utilizada para o vôo:
+Nº Vôo: QV-812 - Decolagem - Destino: PEK Tempo de Vôo Estimado: 3 Espera 4 Emergência: não
+
+
+Tamanho da fila de espera para PQP (usar as pistas do aeroporto): 13
+
+@@@@#* Tempo 5 (6ª iteração de 10) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 2 P2: 2 Decolagem: 2
+
+
+Dados e estatísticas no tempo 5 da simulação:
+Aviões esperando para pousar:
+Média de combustível dos aviões esperando para pousar: 0.000000
+Aviões esperando para decolar:
+Nº Vôo: QV-538 - Decolagem - Destino: PVG Tempo de Vôo Estimado: 3 Espera 4 Emergência: não
+Nº Vôo: AV-141 - Decolagem - Destino: GRU Tempo de Vôo Estimado: 3 Espera 3 Emergência: não
+Nº Vôo: JS-948 - Decolagem - Destino: NVT Tempo de Vôo Estimado: 3 Espera 3 Emergência: não
+Média de Combustível dos aviões que pousaram no tempo atual: 0.000000
+Nº de pousos no tempo atual: 0
+Nº de decolagens no tempo atual: 3
+Nº de vôos de emergência usando as Pistas no tempo atual: 0
+Média de Combustível dos voôs que pousaram na simulação até aqui: 0.000000
+Total de Pousos: 1
+Total de Decolagens: 6
+Total de vôos de emergência que usaram a pista: 2
+Total de vôos de emergência que pousaram: 0
+Tempo Médio para: Pouso: 5.000000 , Decolagem: 0.000000
+
+Atualização das Pistas de PQP antes da comunicação dos novos vôos
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 1 P2: 1 Decolagem: 1
+
+Comunicação de novos vôos com a torre.
+
+Total de vôos redirecionados para FDP: 0
+
+
+Tamanho da fila de espera para PQP (usar as pistas do aeroporto): 13
+
+@@@@#* Tempo 6 (7ª iteração de 10) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 1 P2: 1 Decolagem: 1
+
+
+Dados e estatísticas no tempo 6 da simulação:
+Aviões esperando para pousar:
+Média de combustível dos aviões esperando para pousar: 0.000000
+Aviões esperando para decolar:
+Nº Vôo: QV-538 - Decolagem - Destino: PVG Tempo de Vôo Estimado: 3 Espera 5 Emergência: não
+Nº Vôo: AV-141 - Decolagem - Destino: GRU Tempo de Vôo Estimado: 3 Espera 4 Emergência: não
+Nº Vôo: JS-948 - Decolagem - Destino: NVT Tempo de Vôo Estimado: 3 Espera 4 Emergência: não
+Média de Combustível dos aviões que pousaram no tempo atual: 0.000000
+Nº de pousos no tempo atual: 0
+Nº de decolagens no tempo atual: 0
+Nº de vôos de emergência usando as Pistas no tempo atual: 0
+Média de Combustível dos voôs que pousaram na simulação até aqui: 0.000000
+Total de Pousos: 1
+Total de Decolagens: 6
+Total de vôos de emergência que usaram a pista: 2
+Total de vôos de emergência que pousaram: 0
+Tempo Médio para: Pouso: 6.000000 , Decolagem: 0.000000
+
+Atualização das Pistas de PQP antes da comunicação dos novos vôos
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 0 P2: 0 Decolagem: 0
+
+Comunicação de novos vôos com a torre.
+Pista Decolagem sendo utilizada para o vôo:
+Nº Vôo: CA-798 - Decolagem - Destino: BEL Tempo de Vôo Estimado: 4 Espera 0 Emergência: não
+
+Vôos sorteados nesta iteração: 12
+Por tipo de vôo:
+Emergência: 7, Pousos, 5, Decolagens 0
+
+Total de vôos sorteados ao longo da simulação: 53
+Por tipo de vôo:
+Emergência 32, Pousos 14, Decolagens 7
+
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: LK-311 - Pouso - Origem: BEL Combustível: 2 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: VP-199 - Pouso - Origem: REC Combustível: 2 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: QV-537 - Pouso - Origem: BPS Combustível: 2 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: LA-204 - Pouso - Origem: IGU Combustível: 1 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: CA-690 - Pouso - Origem: MGF Combustível: 4 Emergência sim
+Total de vôos redirecionados para FDP: 5
+
+Pista P1 sendo utilizada para o vôo:
+Nº Vôo: AD-652 - Decolagem - Destino: NVT Tempo de Vôo Estimado: 1 Espera 0 Emergência: não
+
+Pista P2 sendo utilizada para o vôo:
+Nº Vôo: QV-538 - Decolagem - Destino: PVG Tempo de Vôo Estimado: 3 Espera 6 Emergência: não
+
+
+Tamanho da fila de espera para PQP (usar as pistas do aeroporto): 17
+
+@@@@#* Tempo 7 (8ª iteração de 10) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 2 P2: 2 Decolagem: 2
+
+
+Dados e estatísticas no tempo 7 da simulação:
+Aviões esperando para pousar:
+Média de combustível dos aviões esperando para pousar: 0.000000
+Aviões esperando para decolar:
+Nº Vôo: AV-141 - Decolagem - Destino: GRU Tempo de Vôo Estimado: 3 Espera 5 Emergência: não
+Nº Vôo: JS-948 - Decolagem - Destino: NVT Tempo de Vôo Estimado: 3 Espera 5 Emergência: não
+Nº Vôo: LA-005 - Decolagem - Destino: MCZ Tempo de Vôo Estimado: 3 Espera 0 Emergência: não
+Nº Vôo: G3-038 - Decolagem - Destino: GYN Tempo de Vôo Estimado: 3 Espera 0 Emergência: não
+Nº Vôo: AV-998 - Decolagem - Destino: MAO Tempo de Vôo Estimado: 3 Espera 0 Emergência: não
+Média de Combustível dos aviões que pousaram no tempo atual: 0.000000
+Nº de pousos no tempo atual: 0
+Nº de decolagens no tempo atual: 3
+Nº de vôos de emergência usando as Pistas no tempo atual: 0
+Média de Combustível dos voôs que pousaram na simulação até aqui: 0.000000
+Total de Pousos: 1
+Total de Decolagens: 9
+Total de vôos de emergência que usaram a pista: 2
+Total de vôos de emergência que pousaram: 0
+Tempo Médio para: Pouso: 7.000000 , Decolagem: 0.000000
+
+Atualização das Pistas de PQP antes da comunicação dos novos vôos
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 1 P2: 1 Decolagem: 1
+
+Comunicação de novos vôos com a torre.
+Vôos sorteados nesta iteração: 13
+Por tipo de vôo:
+Emergência: 9, Pousos, 2, Decolagens 2
+
+Total de vôos sorteados ao longo da simulação: 66
+Por tipo de vôo:
+Emergência 41, Pousos 16, Decolagens 9
+
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: ZP-142 - Pouso - Origem: VCP Combustível: 3 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: RG-375 - Pouso - Origem: POA Combustível: 3 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: TR-976 - Pouso - Origem: MGF Combustível: 1 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: JS-473 - Pouso - Origem: GRU Combustível: 2 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: TR-386 - Pouso - Origem: PVG Combustível: 4 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: LK-965 - Pouso - Origem: NVT Combustível: 4 Emergência não
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: LA-325 - Pouso - Origem: FNJ Combustível: 4 Emergência não
+Total de vôos redirecionados para FDP: 7
+
+
+Tamanho da fila de espera para PQP (usar as pistas do aeroporto): 23
+
+@@@@#* Tempo 8 (9ª iteração de 10) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 1 P2: 1 Decolagem: 1
+
+
+Dados e estatísticas no tempo 8 da simulação:
+Aviões esperando para pousar:
+Média de combustível dos aviões esperando para pousar: 0.000000
+Aviões esperando para decolar:
+Nº Vôo: JS-596 - Decolagem - Destino: GYN Tempo de Vôo Estimado: 1 Espera 0 Emergência: não
+Nº Vôo: AV-141 - Decolagem - Destino: GRU Tempo de Vôo Estimado: 3 Espera 6 Emergência: não
+Nº Vôo: JS-948 - Decolagem - Destino: NVT Tempo de Vôo Estimado: 3 Espera 6 Emergência: não
+Nº Vôo: LA-005 - Decolagem - Destino: MCZ Tempo de Vôo Estimado: 3 Espera 1 Emergência: não
+Nº Vôo: G3-038 - Decolagem - Destino: GYN Tempo de Vôo Estimado: 3 Espera 1 Emergência: não
+Nº Vôo: AV-998 - Decolagem - Destino: MAO Tempo de Vôo Estimado: 3 Espera 1 Emergência: não
+Nº Vôo: RG-624 - Decolagem - Destino: PVG Tempo de Vôo Estimado: 6 Espera 0 Emergência: não
+Média de Combustível dos aviões que pousaram no tempo atual: 0.000000
+Nº de pousos no tempo atual: 0
+Nº de decolagens no tempo atual: 0
+Nº de vôos de emergência usando as Pistas no tempo atual: 0
+Média de Combustível dos voôs que pousaram na simulação até aqui: 0.000000
+Total de Pousos: 1
+Total de Decolagens: 9
+Total de vôos de emergência que usaram a pista: 2
+Total de vôos de emergência que pousaram: 0
+Tempo Médio para: Pouso: 8.000000 , Decolagem: 0.000000
+
+Atualização das Pistas de PQP antes da comunicação dos novos vôos
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 0 P2: 0 Decolagem: 0
+
+Comunicação de novos vôos com a torre.
+Pista P1 sendo utilizada para o vôo:
+Nº Vôo: LK-897 - Pouso - Origem: BSB Combustível: 2 Emergência não
+
+Pista Decolagem sendo utilizada para o vôo:
+Nº Vôo: AD-560 - Decolagem - Destino: HAN Tempo de Vôo Estimado: 5 Espera 0 Emergência: não
+
+Pista P2 sendo utilizada para o vôo:
+Nº Vôo: TR-249 - Pouso - Origem: HAV Combustível: 4 Emergência não
+
+Vôos sorteados nesta iteração: 11
+Por tipo de vôo:
+Emergência: 7, Pousos, 2, Decolagens 2
+
+Total de vôos sorteados ao longo da simulação: 77
+Por tipo de vôo:
+Emergência 48, Pousos 18, Decolagens 11
+
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: G3-190 - Pouso - Origem: SDU Combustível: 1 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: LK-346 - Pouso - Origem: BSB Combustível: 1 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: G3-404 - Pouso - Origem: POA Combustível: 1 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: TR-426 - Pouso - Origem: MCP Combustível: 3 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: QV-345 - Pouso - Origem: PEK Combustível: 2 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: QV-055 - Pouso - Origem: LDB Combustível: 2 Emergência sim
+Total de vôos redirecionados para FDP: 6
+
+
+Tamanho da fila de espera para PQP (usar as pistas do aeroporto): 25
+
+@@@@#* Tempo 9 (10ª iteração de 10) *#@@@@
+
+Situação das Pistas antes de atualizá-las com novos vôos, ou diminuição de seus tempos de travamento:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 2 P2: 2 Decolagem: 2
+
+
+Dados e estatísticas no tempo 9 da simulação:
+Aviões esperando para pousar:
+Média de combustível dos aviões esperando para pousar: 0.000000
+Aviões esperando para decolar:
+Nº Vôo: JS-596 - Decolagem - Destino: GYN Tempo de Vôo Estimado: 1 Espera 1 Emergência: não
+Nº Vôo: LA-253 - Decolagem - Destino: VTE Tempo de Vôo Estimado: 2 Espera 0 Emergência: não
+Nº Vôo: AV-141 - Decolagem - Destino: GRU Tempo de Vôo Estimado: 3 Espera 7 Emergência: não
+Nº Vôo: JS-948 - Decolagem - Destino: NVT Tempo de Vôo Estimado: 3 Espera 7 Emergência: não
+Nº Vôo: LA-005 - Decolagem - Destino: MCZ Tempo de Vôo Estimado: 3 Espera 2 Emergência: não
+Nº Vôo: G3-038 - Decolagem - Destino: GYN Tempo de Vôo Estimado: 3 Espera 2 Emergência: não
+Nº Vôo: AV-998 - Decolagem - Destino: MAO Tempo de Vôo Estimado: 3 Espera 2 Emergência: não
+Nº Vôo: RG-624 - Decolagem - Destino: PVG Tempo de Vôo Estimado: 6 Espera 1 Emergência: não
+Média de Combustível dos aviões que pousaram no tempo atual: 3.000000
+Nº de pousos no tempo atual: 2
+Nº de decolagens no tempo atual: 1
+Nº de vôos de emergência usando as Pistas no tempo atual: 0
+Média de Combustível dos voôs que pousaram na simulação até aqui: 1.000000
+Total de Pousos: 3
+Total de Decolagens: 10
+Total de vôos de emergência que usaram a pista: 2
+Total de vôos de emergência que pousaram: 0
+Tempo Médio para: Pouso: 3.000000 , Decolagem: 0.000000
+
+Atualização das Pistas de PQP antes da comunicação dos novos vôos
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 1 P2: 1 Decolagem: 1
+
+Comunicação de novos vôos com a torre.
+Vôos sorteados nesta iteração: 4
+Por tipo de vôo:
+Emergência: 3, Pousos, 0, Decolagens 1
+
+Total de vôos sorteados ao longo da simulação: 81
+Por tipo de vôo:
+Emergência 51, Pousos 18, Decolagens 12
+
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: VN-034 - Pouso - Origem: GYN Combustível: 3 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: ZP-276 - Pouso - Origem: MCP Combustível: 4 Emergência sim
+
+Vôo redirecionado para o Aeroporto Internacional Familícia Do Presidente (FDP)
+Nº Vôo: LK-911 - Pouso - Origem: SDU Combustível: 1 Emergência não
+Total de vôos redirecionados para FDP: 3
+
+
+Tamanho da fila de espera para PQP (usar as pistas do aeroporto): 26
+
+@@@#* Estatísticas finais da simulação: *#@@@
+
+
+Dados e estatísticas no tempo 10 da simulação:
+Aviões esperando para pousar:
+Média de combustível dos aviões esperando para pousar: 0.000000
+Aviões esperando para decolar:
+Nº Vôo: JS-596 - Decolagem - Destino: GYN Tempo de Vôo Estimado: 1 Espera 2 Emergência: não
+Nº Vôo: LA-253 - Decolagem - Destino: VTE Tempo de Vôo Estimado: 2 Espera 1 Emergência: não
+Nº Vôo: AV-141 - Decolagem - Destino: GRU Tempo de Vôo Estimado: 3 Espera 8 Emergência: não
+Nº Vôo: JS-948 - Decolagem - Destino: NVT Tempo de Vôo Estimado: 3 Espera 8 Emergência: não
+Nº Vôo: LA-005 - Decolagem - Destino: MCZ Tempo de Vôo Estimado: 3 Espera 3 Emergência: não
+Nº Vôo: G3-038 - Decolagem - Destino: GYN Tempo de Vôo Estimado: 3 Espera 3 Emergência: não
+Nº Vôo: AV-998 - Decolagem - Destino: MAO Tempo de Vôo Estimado: 3 Espera 3 Emergência: não
+Nº Vôo: RG-624 - Decolagem - Destino: PVG Tempo de Vôo Estimado: 6 Espera 2 Emergência: não
+Média de Combustível dos aviões que pousaram no tempo atual: 0.000000
+Nº de pousos no tempo atual: 0
+Nº de decolagens no tempo atual: 0
+Nº de vôos de emergência usando as Pistas no tempo atual: 0
+Média de Combustível dos voôs que pousaram na simulação até aqui: 0.000000
+Total de Pousos: 3
+Total de Decolagens: 10
+Total de vôos de emergência que usaram a pista: 2
+Total de vôos de emergência que pousaram: 0
+Tempo Médio para: Pouso: 3.000000 , Decolagem: 0.000000
+Fração de vôos de emergência que usaram as pistas: 2.469136%
+Fração de vôos que pousaram: 3.703704%
+Fração de vôos que decolaram: 12.345679%
+
+Fração de vôos de emergência sorteados: 62.962963%
+Fração de pousos sorteados: 14.814815%
+Fração de decolagens sorteadas: 22.222221%
+Fração de vôos ainda na fila que não pousaram: 32.098766%
+Fração de vôos desviados: 49.382717%
+Fração de vôos que cairam: 0.000000%
+Situação das Pistas de PQP após a simulação:
+
+Tempos das Pistas de PQP para destravamento (0 significa pista livre):
+P1: 1 P2: 1 Decolagem: 1
+
+
+@@@@#* Fim da Simulação! *#@@@@
